@@ -1,0 +1,24 @@
+2019/10/23-19:09:11.610 c72 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/10/23-19:09:11.611 c72 Recovering log #24
+2019/10/23-19:09:11.626 c72 Reusing old log leveldb/000024.log 
+2019/10/23-19:18:11.894 cba Level-0 table #28: started
+2019/10/23-19:18:12.039 cba Level-0 table #28: 57361 bytes OK
+2019/10/23-19:18:12.302 cba Delete type=0 #24
+2019/10/23-19:18:12.302 cba Compacting 4@0 + 1@1 files
+2019/10/23-19:18:12.491 cba Generated table #29@0: 10 keys, 57242 bytes
+2019/10/23-19:18:12.491 cba Compacted 4@0 + 1@1 files => 57242 bytes
+2019/10/23-19:18:12.639 cba compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/23-19:18:12.640 cba Delete type=2 #28
+2019/10/23-19:18:12.642 cba Delete type=2 #18
+2019/10/23-19:18:12.642 cba Delete type=2 #20
+2019/10/23-19:18:12.659 cba Delete type=2 #25
+2019/10/23-19:18:12.659 cba Delete type=2 #22
+2019/10/23-21:09:32.148 1765 Level-0 table #31: started
+2019/10/23-21:09:32.229 1765 Level-0 table #31: 56125 bytes OK
+2019/10/23-21:09:32.297 1765 Delete type=0 #27
+2019/10/23-22:09:34.941 1837 Level-0 table #33: started
+2019/10/23-22:09:35.010 1837 Level-0 table #33: 55693 bytes OK
+2019/10/23-22:09:35.056 1837 Delete type=0 #30
+2019/10/23-22:14:24.188 1ad7 Level-0 table #35: started
+2019/10/23-22:14:24.220 1ad7 Level-0 table #35: 56100 bytes OK
+2019/10/23-22:14:24.320 1ad7 Delete type=0 #32
